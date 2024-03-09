@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john.doe@example.com",
+      "age": 25,
+      "companyId": 1
+    },
+    {
+      "id": 2,
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "email": "janesmith@example.com",
+      "age": 35,
+      "companyId": 2
+    },
+    {
+      "id": 3,
+      "firstname": "Bob",
+      "lastname": "Johnson",
+      "email": "bobjohnson@example.com",
+      "age": 50,
+      "companyId": 3
+    },
+    {
+      "id": 4,
+      "firstname": "Emily",
+      "lastname": "Davis",
+      "email": "emilydavis@example.com",
+      "age": 22,
+      "companyId": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple est une multinationale américaine spécialisée dans l'informatique et l'électronique. L'entreprise propose des produits tels que des ordinateurs personnels et ses dérivés et des logiciels informatiques. Parmi les plus connus figurent les ordinateurs Macintosh, les iPod, iPhone ou iPad et le lecteur iTunes."
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft est une multinationale qui développe entre autres les systèmes Windows. Fondée par Bill Gates en 1975 et située à Redmond aux Etats-Unis, Microsoft est actuellement l'éditeur qui domine largement le marché des systèmes d'exploitation et de l'informatique avec plus de 50 milliards de dollars de revenus par an."
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google est une entreprise américaine de services technologiques fondée en 1998 dans la Silicon Valley, en Californie, par Larry Page et Sergey Brin, créateurs du moteur de recherche Google. C'est une filiale de la société Alphabet depuis août 2015."
+    }
+  ]
+}

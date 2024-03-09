@@ -1,0 +1,14 @@
+{
+  "name": "simple-rest-api-with-json-server",
+  "version": "1.0.0",
+  "description": "Simple REST API with JSON server",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json --port 3000"
+  },
+  "author": "Carlos Antunes",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
